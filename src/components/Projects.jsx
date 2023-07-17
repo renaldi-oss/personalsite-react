@@ -80,18 +80,7 @@ function Projects() {
                                 <div className="project-content">
                                     <h3>ChatGan</h3>
                                     <p>Merupakan project dimana saya berhasil mengimplementasikan websocket</p>
-                                    <a className="btn-github" href="https://github.com/renaldi-oss/self-profile" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
-                                    <div className="d-block tech-stack-wrapper">
-                                        <span id="tech-stack">React</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="project-card">
-                                <img src={Project5} alt="Project 4" loading="lazy" />
-                                <div className="project-content">
-                                    <h3>ChatGan</h3>
-                                    <p>Merupakan project dimana saya berhasil mengimplementasikan websocket</p>
-                                    <a className="btn-github" href="https://github.com/renaldi-oss/self-profile" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
+                                    <a className="btn-github" href="https://github.com/renaldi-oss/ChatGan" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
                                     <div className="d-block tech-stack-wrapper">
                                         <span id="tech-stack">React</span>
                                     </div>
@@ -102,7 +91,7 @@ function Projects() {
                                 <div className="project-content">
                                     <h3>Moviepedia</h3>
                                     <p>Aplikasi database film</p>
-                                    <a className="btn-github" href="https://github.com/renaldi-oss/self-profile" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
+                                    <a className="btn-github" href="https://github.com/renaldi-oss/pemrogaman_mobile/tree/master/UAS/moviepedia" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
                                     <div className="d-block tech-stack-wrapper">
                                         <span id="tech-stack">Flutter</span>
                                     </div>
@@ -113,7 +102,7 @@ function Projects() {
                                 <div className="project-content">
                                     <h3>Weatherapp</h3>
                                     <p>Proyek uts pemrogaman mobile dimana membuat aplikasi cuaca</p>
-                                    <a className="btn-github" href="https://github.com/renaldi-oss/self-profile" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
+                                    <a className="btn-github" href="https://github.com/renaldi-oss/pemrogaman_mobile/tree/master/UAS/weather" target="_blank" rel="noreferrer"><AiFillGithub className="project-icon" />&nbsp;&nbsp;GitHub</a>
                                     <div className="d-block tech-stack-wrapper">
                                         <span id="tech-stack">Flutter</span>
                                     </div>
